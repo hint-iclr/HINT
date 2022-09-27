@@ -1,0 +1,16 @@
+data/symbol_images
+data/expr_images
+data/figures
+data/*.json*
+data/gpt3/*.json*
+data/perception_pretrain
+data/*.zip
+*__pycache__*
+.vscode/
+.ipynb_checkpoints/
+compressionMessages/
+outputs/
+log.txt
+*.p
+tmp/
+wandb/
