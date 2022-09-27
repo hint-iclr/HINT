@@ -1,31 +1,5 @@
 # A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics
-Pytorch implementation for the baselines in [A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics](https://liqing-ustc.github.io/HINT/)
-<!-- 
-<div align="center">
-  <img src="RL_vs_BS.png" width="750px">
-</div>
-
-### Publication
-**[Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://liqing-ustc.github.io/NGS/)**
-<br>
-[Qing Li](http://liqing-ustc.github.io/), 
-[Siyuan Huang](http://siyuanhuang.com/), 
-[Yining Hong](https://evelinehong.github.io/), 
-[Yixin Chen](https://yixchen.github.io/), 
-[Ying Nian Wu](http://www.stat.ucla.edu/~ywu/), and
-[Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/)
-<br>
-In International Conference on Machine Learning (*ICML*) 2020.
-<br>
-
-```
-@inproceedings{li2020ngs,
-  title={Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning},
-  author={Li, Qing and Huang, Siyuan and Hong, Yining and Chen, Yixin and Wu, Ying Nian and Zhu, Song-Chun.},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2020}
-}
-``` -->
+Pytorch implementation for the baselines in [A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics](https://hint-iclr.github.io/HINT/)
 
 ## Prerequisites
 * Ubuntu 20.04
@@ -36,7 +10,7 @@ In International Conference on Machine Learning (*ICML*) 2020.
 ## Getting started
 1. Clone this repository and unzip the dataset:
 ```
-git clone https://github.com/liqing-ustc/HINT.git
+git clone https://github.com/hint-iclr/HINT.git
 cd HINT/data
 tar -xvf dataset.tar.xz
 ```
